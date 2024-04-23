@@ -1,0 +1,25 @@
+body {
+    padding: 10px;
+    background-color: rgb(32, 32, 32);
+}
+
+button {
+  
+    cursor: pointer;
+    
+    border-radius: 5%;
+}
+
+button:hover{
+    background-color: dodgerblue;
+    color: white;
+    transition: 0.5s; 
+}
+
+li {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
